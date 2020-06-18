@@ -16,15 +16,15 @@
     "cron"
   ],
   "dependencies": {
-    "node-schedule": "~1.0.0",
-    "cron": "~1.7.0",
-    "cron-parser": "~1.0.1"
+    "cron": "~1.8.2",
+    "cron-parser": "~2.15.0",
+    "node-schedule": "~1.3.2"
   },
   "bugs": {
     "url": "https://github.com/matsukaz/hubot-schedule/issues"
   },
   "devDependencies": {
-    "hubot": "^2.17.0"
+    "hubot": "^3.3.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
